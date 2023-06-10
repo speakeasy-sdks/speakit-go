@@ -39,11 +39,11 @@ func main() {
 ## Available Resources and Operations
 
 
-### [Pets](docs/pets/README.md)
+### [Pets](docs/sdks/pets/README.md)
 
-* [CreatePets](docs/pets/README.md#createpets) - Create a pet
-* [ListPets](docs/pets/README.md#listpets) - List all pets
-* [ShowPetByID](docs/pets/README.md#showpetbyid) - Info for a specific pet
+* [CreatePets](docs/sdks/pets/README.md#createpets) - Create a pet
+* [ListPets](docs/sdks/pets/README.md#listpets) - List all pets
+* [ShowPetByID](docs/sdks/pets/README.md#showpetbyid) - Info for a specific pet
 <!-- End SDK Available Operations -->
 
 ### Maturity

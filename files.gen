@@ -20,6 +20,13 @@ pkg/models/operations/listpets.go
 pkg/models/operations/showpetbyid.go
 pkg/models/shared/error.go
 pkg/models/shared/pet.go
-docs/petstore/README.md
-docs/pets/README.md
+docs/sdks/petstore/README.md
+docs/sdks/pets/README.md
 USAGE.md
+docs/models/operations/createpetsresponse.md
+docs/models/operations/listpetsrequest.md
+docs/models/operations/listpetsresponse.md
+docs/models/operations/showpetbyidrequest.md
+docs/models/operations/showpetbyidresponse.md
+docs/models/shared/error.md
+docs/models/shared/pet.md
